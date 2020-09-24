@@ -17,7 +17,7 @@
         android:textColor="#FFFFFF"
         android:textSize="18sp" />
 
-    <ListView
+    <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/lv_goods"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
